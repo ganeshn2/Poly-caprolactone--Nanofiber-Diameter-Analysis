@@ -2,7 +2,7 @@
 
 This study reports the diameter variations of poly(caprolactone) (PCL) nanofibers obtained from various regions of PCL non-woven mats. 
 
-Besides the technical curiosity, fiber diameters play a vital role in determining the biological cell growth on the medical nanofibers (PCL nanofibers) as these nanofibers mimic the native architecture of physiologic tissue. 
+Besides the technical curiosity, fiber diameters play a vital role in determining the biological cell growth on the medical nanofibers (PCL nanofibers) as these nanofibers mimic the native architecture of physiologic tissues. 
 
 In addition, fiber diameter determines the rate of drug/small molecule release from these polymers. Additional information on fiber diameter-dependent effect in biomedical applications can be obtained from these peer-reviewed manuscripts. 
 
