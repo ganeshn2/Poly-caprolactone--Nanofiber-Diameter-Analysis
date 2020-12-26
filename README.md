@@ -1,0 +1,2 @@
+# Poly-caprolactone--Nanofiber-Diameter-Analysis
+Poly(caprolactone)-Nanofiber Diameter-Analysis in Python. Major differences between our published research on PEO nanofibers and the current research is the tendency of the fiber diameter of PEO fibers to be at the lower end, unlike PCL nanofibers which are almost always thicker and also forms beads. In addition, as we observed location-induced variations in the nanofiber diameters, we incorporated several additional regions for this study. 
