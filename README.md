@@ -12,7 +12,7 @@ Advanced Drug Delivery Reviews,107,2016,247-276,DOI: https://doi.org/10.1016/j.a
 2. Narayanan, G., et al. Regenerative Engineering of the Rotator Cuff of the Shoulder. ACS Biomaterials Science & Engineering, 4(3), 751–786. https://doi.org/10.1021/acsbiomaterials.7b00631 
 
 
-Major differences between our published research on PEO nanofibers (https://github.com/ganeshn2/Nanofiber-Statistics-Project) and this research is the tendency of the fiber diameter of PEO fibers to be at the lower end, unlike PCL nanofibers which are almost always thicker and also forms beads. In addition, as we observed location-induced variations in the nanofiber diameters, we incorporated several additional regions for this study. 
+Major differences between our published research on PEO nanofibers (https://github.com/ganeshn2/Nanofiber-Statistics-Project) and this research is the tendency of the fiber diameter of PEO fibers to be at the lower end (<100 nm), unlike PCL nanofibers, which are almost always thicker (>500 nm) and also form beads. In addition, as we observed location-induced variations in the nanofiber diameters in a previous study, we incorporated several additional regions in this study. 
 
 Another difference is that we are currently working on utilizing semi-automated measurement systems (DiameterJ) as a comparison method to see if there is any significant advantage over tedious data collection method as reported in this repository. 
 
