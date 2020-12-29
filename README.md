@@ -18,4 +18,4 @@ Another difference is that we are currently working on utilizing semi-automated 
 
 Data and analyses from semi-automated measurements will be updated in this repository once the analysis is completed. 
 
-PS: We are currently performing analyst-effect on the fiber diameters and subsequently an interaction plot, which will be submitted to this repository and the README file uploaded. 
+
